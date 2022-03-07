@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dishonoured
+- 👀 I’m interested in Architecture, Azure and programming in C'
+- 🌱 I’m currently learning Power BI rest APIs
+- 💞️ I’m looking to collaborate on things that have environment benefit
+- 📫 How to reach me ... on here!
